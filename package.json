@@ -1,0 +1,27 @@
+{
+  "name": "sampleCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtungaturti/ci.git"
+  },
+  "author": "Raghu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtungaturti/ci/issues"
+  },
+  "homepage": "https://github.com/rtungaturti/ci",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.2",
+    "supertest": "^2.0.1"
+  }
+}
